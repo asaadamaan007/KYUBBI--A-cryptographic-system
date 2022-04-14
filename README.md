@@ -1,3 +1,5 @@
-This project was developed by Asaad Amaan, Abhinav Bhatt and Abhishek Biswal.
-It is model that simulates the cryptographic mechanishm implemented in securing the transimission and storage of data on remote locations.It is coded in Java, JSP, JS.
-The project requires Java, Netbeans IDE is prefered or as suited, MySQL db, a web server (appache tomcat is recommended)  
+Kyubbi is a secure communication system that allows secure storage and transmission of data on public network by leverage advance elliptic curve cryptography for data-in-transit protection along with AES for protection of data-at-rest.  
+
+This is a web application model that simulates a cryptographic mechanishm implemented in securing the transimission and storage of data on remote locations and is bundled with a CDN to function for demonstration purposes.
+
+Built using Java and uses JSP for server side scripting and Vanilla JS for front-end.
